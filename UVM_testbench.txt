@@ -1,0 +1,101 @@
+VSIMSA: Configuration file changed: `/home/runner/library.cfg'
+ALIB: Library "work" attached.
+work = /home/runner/work/work.lib
+MESSAGE "Unit top modules: tb."
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+done
+# Aldec, Inc. Riviera-PRO version 2023.04.112.8911 built for Linux64 on May 12, 2023.
+# HDL, SystemC, and Assertions simulator, debugger, and design environment.
+# (c) 1999-2023 Aldec, Inc. All rights reserved.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# KERNEL: PLI/VHPI kernel's engine initialization done.
+# PLI: Loading library '/usr/share/Riviera-PRO/bin/libsystf.so'
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ns.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.0 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 0.1 [s]
+# SLP: Finished : 0.1 [s]
+# SLP: 0 primitives and 4 (57.14%) other processes in SLP
+# SLP: 17 (4.64%) signals in SLP and 47 (12.84%) interface signals
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Riviera-PRO EDU Edition. The performance of simulation is reduced.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5611 kB (elbread=459 elab2=4984 kernel=167 sdf=0)
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: -----------------[DRV] : RESET DONE-----------------------------
+# KERNEL: [GEN] : OP : 1 awaddr : 1 wdata : 9 araddr : 1
+# KERNEL: [DRV] : OP : 1 awaddr : 1 wdata : 9 
+# KERNEL: [MON] : OP : 1 awaddr : 1 wdata : 9 wresp:0
+# KERNEL: [SCO] : OP : 1 awaddr : 1 wdata : 9 wresp : 0
+# KERNEL: [SCO] : DATA STORED ADDR :1 and DATA :9
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 0 awaddr : 1 wdata : 4 araddr : 2
+# KERNEL: [DRV] : OP : 0 araddr : 2 
+# KERNEL: [MON] : OP : 0 araddr : 2 rdata : 0 rresp:0
+# KERNEL: [SCO] : OP : 0 araddr : 2 rdata : 0 rresp : 0
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 1 awaddr : 2 wdata : 2 araddr : 1
+# KERNEL: [DRV] : OP : 1 awaddr : 2 wdata : 2 
+# KERNEL: [MON] : OP : 1 awaddr : 2 wdata : 2 wresp:0
+# KERNEL: [SCO] : OP : 1 awaddr : 2 wdata : 2 wresp : 0
+# KERNEL: [SCO] : DATA STORED ADDR :2 and DATA :2
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 0 awaddr : 0 wdata : 8 araddr : 1
+# KERNEL: [DRV] : OP : 0 araddr : 1 
+# KERNEL: [MON] : OP : 0 araddr : 1 rdata : 9 rresp:0
+# KERNEL: [SCO] : OP : 0 araddr : 1 rdata : 9 rresp : 0
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 1 awaddr : 2 wdata : 9 araddr : 0
+# KERNEL: [DRV] : OP : 1 awaddr : 2 wdata : 9 
+# KERNEL: [MON] : OP : 1 awaddr : 2 wdata : 9 wresp:0
+# KERNEL: [SCO] : OP : 1 awaddr : 2 wdata : 9 wresp : 0
+# KERNEL: [SCO] : DATA STORED ADDR :2 and DATA :9
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 0 awaddr : 1 wdata : 9 araddr : 1
+# KERNEL: [DRV] : OP : 0 araddr : 1 
+# KERNEL: [MON] : OP : 0 araddr : 1 rdata : 9 rresp:0
+# KERNEL: [SCO] : OP : 0 araddr : 1 rdata : 9 rresp : 0
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 0 awaddr : 0 wdata : 5 araddr : 2
+# KERNEL: [DRV] : OP : 0 araddr : 2 
+# KERNEL: [MON] : OP : 0 araddr : 2 rdata : 9 rresp:0
+# KERNEL: [SCO] : OP : 0 araddr : 2 rdata : 9 rresp : 0
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 1 awaddr : 1 wdata : 7 araddr : 0
+# KERNEL: [DRV] : OP : 1 awaddr : 1 wdata : 7 
+# KERNEL: [MON] : OP : 1 awaddr : 1 wdata : 7 wresp:0
+# KERNEL: [SCO] : OP : 1 awaddr : 1 wdata : 7 wresp : 0
+# KERNEL: [SCO] : DATA STORED ADDR :1 and DATA :7
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 1 awaddr : 2 wdata : 1 araddr : 1
+# KERNEL: [DRV] : OP : 1 awaddr : 2 wdata : 1 
+# KERNEL: [MON] : OP : 1 awaddr : 2 wdata : 1 wresp:0
+# KERNEL: [SCO] : OP : 1 awaddr : 2 wdata : 1 wresp : 0
+# KERNEL: [SCO] : DATA STORED ADDR :2 and DATA :1
+# KERNEL: ----------------------------------------------------
+# KERNEL: [GEN] : OP : 0 awaddr : 0 wdata : 1 araddr : 1
+# KERNEL: [DRV] : OP : 0 araddr : 1 
+# KERNEL: [MON] : OP : 0 araddr : 1 rdata : 7 rresp:0
+# KERNEL: [SCO] : OP : 0 araddr : 1 rdata : 7 rresp : 0
+# KERNEL: [SCO] : DATA MATCHED
+# KERNEL: ----------------------------------------------------
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (381): $finish called.
+# KERNEL: Time: 795 ns,  Iteration: 1,  Instance: /tb,  Process: @INITIAL#372_7@.
+# KERNEL: stopped at time: 795 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
